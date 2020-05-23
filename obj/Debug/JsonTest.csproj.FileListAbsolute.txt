@@ -34,16 +34,6 @@ D:\Personal\JsonTest\bin\Debug\System.Text.Encodings.Web.dll
 D:\Personal\JsonTest\bin\Debug\System.Text.Json.dll
 D:\Personal\JsonTest\bin\Debug\System.Threading.Tasks.Extensions.dll
 D:\Personal\JsonTest\bin\Debug\System.ValueTuple.dll
-D:\Personal\JsonTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Personal\JsonTest\bin\Debug\System.Buffers.xml
-D:\Personal\JsonTest\bin\Debug\System.Memory.xml
-D:\Personal\JsonTest\bin\Debug\System.Numerics.Vectors.xml
-D:\Personal\JsonTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Personal\JsonTest\bin\Debug\System.Text.Encodings.Web.xml
-D:\Personal\JsonTest\bin\Debug\System.Text.Json.xml
-D:\Personal\JsonTest\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\Personal\JsonTest\bin\Debug\System.ValueTuple.xml
-D:\Personal\JsonTest\obj\Debug\JsonTest.csprojAssemblyReference.cache
 D:\Personal\JsonTest\obj\Debug\JsonTest.csproj.CopyComplete
 D:\Personal\JsonTest\obj\Debug\JsonTest.exe
 D:\Personal\JsonTest\obj\Debug\JsonTest.pdb

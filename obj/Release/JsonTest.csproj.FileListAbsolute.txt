@@ -10,15 +10,6 @@ D:\Personal\JsonTest\bin\Release\System.Text.Encodings.Web.dll
 D:\Personal\JsonTest\bin\Release\System.Text.Json.dll
 D:\Personal\JsonTest\bin\Release\System.Threading.Tasks.Extensions.dll
 D:\Personal\JsonTest\bin\Release\System.ValueTuple.dll
-D:\Personal\JsonTest\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Personal\JsonTest\bin\Release\System.Buffers.xml
-D:\Personal\JsonTest\bin\Release\System.Memory.xml
-D:\Personal\JsonTest\bin\Release\System.Numerics.Vectors.xml
-D:\Personal\JsonTest\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
-D:\Personal\JsonTest\bin\Release\System.Text.Encodings.Web.xml
-D:\Personal\JsonTest\bin\Release\System.Text.Json.xml
-D:\Personal\JsonTest\bin\Release\System.Threading.Tasks.Extensions.xml
-D:\Personal\JsonTest\bin\Release\System.ValueTuple.xml
 D:\Personal\JsonTest\obj\Release\JsonTest.csproj.CopyComplete
 D:\Personal\JsonTest\obj\Release\JsonTest.exe
 D:\Personal\JsonTest\obj\Release\JsonTest.pdb
